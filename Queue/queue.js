@@ -8,7 +8,7 @@ class Queue {
   enqueue(ele) {
     this.items.push(ele);
   }
-  dequequ() {
+  dequeue() {
     return this.items.shift();
   }
   front() {

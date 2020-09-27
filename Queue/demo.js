@@ -5,7 +5,7 @@ queue.enqueue('Jack');
 queue.enqueue('Rose');
 queue.enqueue('Cindy');
 queue.print();
-queue.dequequ();
-queue.dequequ();
+queue.dequeue();
+queue.dequeue();
 queue.print();
 console.log(queue.isEmpty())
